@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+pydantic
+pdfplumber
+pymupdf
+sentence-transformers
+streamlit
+scikit-learn
+networkx
+matplotlib
+python-dotenv
+tiktoken
