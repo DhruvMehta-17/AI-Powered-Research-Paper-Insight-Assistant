@@ -147,3 +147,6 @@ This project has been **refactored and enhanced** to improve originality and fun
 
 This project demonstrates how **RAG + FAISS + LLMs + Streamlit** can be combined to build a practical and research-oriented AI assistant.
 
+<img width="1907" height="968" alt="image" src="https://github.com/user-attachments/assets/5f919561-9023-4fb6-be1c-552794c76bbd" />
+
+
